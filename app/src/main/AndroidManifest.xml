@@ -18,12 +18,16 @@
         </activity>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <activity android:name=".LungisaniActivity"></activity>
 =======
         <activity android:name=".Main2Activity"></activity>
 >>>>>>> 289bcb93ce30f63595a9a2ab9257a55569293afb
 =======
 >>>>>>> parent of f69d70e... Lungisani
+=======
+        <activity android:name=".LungisaniActivity"></activity>
+>>>>>>> parent of 9bdfe00... Merge branch 'master' of https://github.com/komicon/test3
     </application>
 
 </manifest>
