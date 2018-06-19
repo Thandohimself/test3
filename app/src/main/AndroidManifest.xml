@@ -16,7 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".LungisaniActivity"></activity>
+=======
+        <activity android:name=".Main2Activity"></activity>
+>>>>>>> 289bcb93ce30f63595a9a2ab9257a55569293afb
     </application>
 
 </manifest>
